@@ -4,6 +4,11 @@
 
 This Jupyter notebook demonstrates a complete workflow for analyzing spatial transcriptomics data using **Scanpy**, a Python-based toolkit for single-cell and spatial gene expression analysis. The analysis uses the **Visium Spatial Gene Expression dataset** from human lymph node tissue.
 
+google drive link
+
+https://drive.google.com/drive/folders/1dM6Bci38y6S0OUFczNE5yBTvC_xm4w28?usp=drive_link
+
+
 ## Notebook Structure
 
 ### 1. Setup and Installation
